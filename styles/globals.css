@@ -1,0 +1,30 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.form-row-spacing{
+  margin-top:20px;
+}
+.navbar-nav a{
+  color: white !important;
+  padding-left: 10px !important;
+}
+.btnspacing{
+  margin-top: 25px;
+  margin-right:25px;
+}
+.react-datepicker-wrapper{
+  display: block !important;
+}
